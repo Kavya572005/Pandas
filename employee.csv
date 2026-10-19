@@ -1,0 +1,13 @@
+Emp_ID,Department,Age,Experience,Salary,City
+E001,IT,25,2,30000,Chennai
+E002,HR,29,5,45000,Bangalore
+E003,Finance,35,10,65000,Mumbai
+E004,IT,28,4,,Hyderabad
+E005,Marketing,32,7,55000,Delhi
+E006,HR,26,3,32000,Chennai
+E007,Finance,40,15,90000,Mumbai
+E008,IT,34,8,70000,Bangalore
+E009,Marketing,27,2,28000,Hyderabad
+E010,HR,31,6,48000,Delhi
+E011,IT,38,12,,Chennai
+E012,Finance,29,5,52000,Bangalore.
